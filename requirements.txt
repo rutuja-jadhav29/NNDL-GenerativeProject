@@ -1,0 +1,10 @@
+torch==2.2.2
+torchvision==0.17.2
+diffusers==0.35.2
+transformers==4.57.1
+pandas
+numpy
+Pillow
+tqdm
+requests
+clip-anytorch

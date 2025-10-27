@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+results.csv
+data/flickr30k/flickr30k_images/
+*.zip
+*.tar.gz
+*.pt
+*.pth
+*.bin
