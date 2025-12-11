@@ -6,10 +6,42 @@ A comprehensive implementation and evaluation of text-to-image generation using 
 
 
 ## Project Structure
+```
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── data/
+│   └── flickr30k/
+│       ├── cleaned_images/
+│       └── cleaned_captions.csv
+│
+├── milestone1/
+│   ├── outputs/
+│   ├── baseline_text_to_embedding.ipynb
+│   ├── E7615_Project2-Milestone1.pdf
+│   ├── preprocess_flickr30k.py
+│   └── validate_clip_alignment.py
+│
+├── milestone2/
+│   ├── M2_Outputs/
+│   ├── Generative_Project_Milestone2.ipynb
+│   ├── Milestone_2_Generative_project.ipynb
+│   └── training_log.csv
+│
+├── milestone3/
+│   ├── Art_Styles.ipynb
+│   ├── Generative_Project_Milestone3.ipynb
+│   └── Milestone3Final.ipynb
+│
+├──
+│   ├── NNDL_FinalPPt.pptx
+│   └── Report_NNDL.pdf
+│
+└── .git/
 
 
-
-
+```
 
 ## Installation
 
